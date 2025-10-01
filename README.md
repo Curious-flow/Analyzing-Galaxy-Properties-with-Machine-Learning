@@ -25,6 +25,4 @@ Output Features: Stellar Mass (log Solar Masses), Amount of Dust (Magnitude of O
 2. Intrinsically build to avoid overfitting and reduce variance by bootstrapping and selecting a random number of features to split at each node.
 3. Easy to interpret and vary the hyperparameters for optimization.**
 
-
-
-### Method: We will evaluate each of these 4 parameters individually using Random Forests.
+Method: We will evaluate each of these 4 parameters individually using Random Forests.
