@@ -26,3 +26,25 @@ Output Features: Stellar Mass (log Solar Masses), Amount of Dust (Magnitude of O
 3. Easy to interpret and vary the hyperparameters for optimization.**
 
 Method: We will evaluate each of these 4 parameters individually using Random Forests.
+
+### Key Results
+
+1. Using the mean of every ten features reduced the dataset size by a factor of 10 while still preserving the results.
+
+2. The algorithm worked great for estimating the Amount of Dust and Stellar Mass (Test Scores 0.978 and 0.935 respectively)
+   
+3. For Age and Tau the test scores were poor (0.057 and 0.076 respectively)
+
+4. Feature Engineering (by working with the logarithms of Age and Tau) had a great effect on the test scores (Improved to 0.696 and 0.619 respectively) thus highlighting the importance of this step.
+
+### Further Improvements for Future
+
+1. Test Scores and Variance issues for Tau and Age can still be improved, perhaps adding more Data can further improve results by about 10%.
+
+2.We could also explore other Machine Learning algorithms. Would be interesting to try SVM and boosting methods on the same problem and then finally Neural Networks as well. Lasso Regression also seems like a good idea for this problem because of the large number of features and Lasso's inherent ability to set the coefficients of uninmportant features to zero.
+
+
+
+
+
+
