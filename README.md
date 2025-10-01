@@ -37,7 +37,7 @@ Method: We will evaluate each of these 4 parameters individually using Random Fo
 
 4. Feature Engineering (by working with the logarithms of Age and Tau) had a great effect on the test scores (Improved to 0.696 and 0.619 respectively) thus highlighting the importance of this step.
 
-### Further Improvements for Future
+### Further Improvements to Explore
 
 1. Test Scores and Variance issues for Tau and Age can still be improved, perhaps adding more Data can further improve results by about 10%.
 
