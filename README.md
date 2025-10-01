@@ -39,9 +39,9 @@ Method: We will evaluate each of these 4 parameters individually using Random Fo
 
 ### Further Improvements to Explore
 
-1. Test Scores and Variance issues for Tau and Age can still be improved, perhaps adding more Data can further improve results by about 10%.
+1. Adding more data might further improve the Test Scores and Variance issues for Tau and Age, perhaps by about 10%.
 
-2. We could also explore other Machine Learning algorithms. Would be interesting to try SVM and boosting methods on the same problem and then finally Neural Networks as well. Lasso Regression also seems like a good idea for this problem because of the large number of features and Lasso's inherent ability to set the coefficients of uninmportant features to zero.
+2. We could explore other Machine Learning algorithms such as SVM and boosting methods, and then finally Neural Networks. Lasso Regression seems like a good idea for this problem because of the large number of features and Lasso's inherent ability to set the coefficients of uninmportant features to zero.
 
 
 
