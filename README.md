@@ -14,6 +14,7 @@
 Units: 
 
 Input Features: Wavelenghts (Angstrom), Flux (microJansky)
+
 Output Features: Stellar Mass (log Solar Masses), Amount of Dust (Magnitude of Obscuration), Age (Gyr) and Tau (Gyr)
 
 ### Machine Learning Algorithm Used: Random Forests (RF)
