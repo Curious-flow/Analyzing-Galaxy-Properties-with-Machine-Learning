@@ -2,7 +2,7 @@
 # Project: Using Random Forests Algorithm in Machine Learning to predict the properties of Galaxies from their Spectral Energy Distribution (SED)
 ### Author: Vishal Verma
 
-### Description: This is my final project for the course'Machine Learning for Scientists'
+### Description: This is my final project for the course 'Machine Learning for Scientists'
 
 ### Course: Machine Learning for Scientists
 ### Course Instructor: Viviana Acquaviva
